@@ -62,5 +62,6 @@ body{
 }
 .feedback-last-line{
     font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
     font-weight:bold;
 }
